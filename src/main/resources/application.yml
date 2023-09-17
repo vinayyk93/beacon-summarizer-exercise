@@ -1,0 +1,6 @@
+ribbon:
+  eureka:
+   enabled: false
+beacon:
+  ribbon:
+    listOfServers: beacon-network.org
